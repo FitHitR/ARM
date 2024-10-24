@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'FIQ_Timer_0.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"fiq_timer_0.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "fiq_timer_0.o" 
+--strict --scatter "FIQ_Timer_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\FIQ_Timer_0.map" -o FIQ_Timer_0.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'FIQ_Timer_0.axf'
+### ADS-LD Command File: 'FIQ_Timer_0.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'FIQ_Timer_0.lnp', Handle=0x00000E9C
+### Writing '.lnp' file
+### ADS-LD Command file 'FIQ_Timer_0.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Personal-Work\Emb\ARM\ADC\ADC_1.uvproj
+Project File Date:  09/02/2024
+
+<h2>Output:</h2>
+compiling ADC_1.c...
+ADC_1.c(60): warning:  #1-D: last line of file ends without a newline
+ADC_1.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1484 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"ADC_1.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling ADC_1.c...
+ADC_1.c(60): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1484 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"ADC_1.axf" - 0 Error(s), 1 Warning(s).

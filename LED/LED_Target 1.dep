@@ -1,0 +1,4 @@
+Dependencies for Project 'LED', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Personal-Work\ARM\RV31\INC -I C:\Personal-Work\ARM\CMSIS\Include -I C:\Personal-Work\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\LED.c)(0x66E910A9)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Personal-Work\ARM\RV31\INC -I C:\Personal-Work\ARM\CMSIS\Include -I C:\Personal-Work\ARM\Inc\Philips -o "led.o" --omf_browse "led.crf" --depend "led.d")
+I (C:\Personal-Work\ARM\Inc\Philips\LPC214x.H)(0x66D7D8A4)

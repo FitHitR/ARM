@@ -1,0 +1,2 @@
+Dependencies for Project 'Non_vectored_Timer_0', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Personal-Work\ARM\RV31\INC -I C:\Personal-Work\ARM\CMSIS\Include -I C:\Personal-Work\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")

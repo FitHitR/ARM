@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "startup.o" "fiq_timer_0.o" 
+--strict --scatter "FIQ_Timer_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\FIQ_Timer_0.map" -o FIQ_Timer_0.axf

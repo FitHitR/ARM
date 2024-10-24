@@ -1,0 +1,4 @@
+Dependencies for Project 'FIQ_Timer_0', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Personal-Work\ARM\RV31\INC -I C:\Personal-Work\ARM\CMSIS\Include -I C:\Personal-Work\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\FIQ_Timer_0.c)(0x66C97F71)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Personal-Work\ARM\RV31\INC -I C:\Personal-Work\ARM\CMSIS\Include -I C:\Personal-Work\ARM\Inc\Philips -o "fiq_timer_0.o" --omf_browse "fiq_timer_0.crf" --depend "fiq_timer_0.d")
+I (C:\Personal-Work\ARM\Inc\Philips\LPC214X.H)(0x4F585AA4)
